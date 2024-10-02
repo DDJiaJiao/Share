@@ -25,6 +25,7 @@ Mail：31363563#QQ.COM
 ##如何查看全文
 由于文章比较长，还在持续更新，github上的内容会持续更新...
 草稿beta版本的文档可以从这个链接查看：https://ojptg05fc7.feishu.cn/docx/JXvedBZg9odDEcxInitcSQF2nUe
+「友情提示，这个链接是飞书文档，用电脑PC浏览器查看效果最好」
 
 * 标记：现在是2024年10月2日beta数据版本
 
