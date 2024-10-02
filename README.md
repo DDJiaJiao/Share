@@ -15,10 +15,16 @@
 ## 提issue
 
 如果有家长或同学对访谈集内内容持有怀疑意见，认为某篇访谈内容作者过于片面或者不属实请在issue区指出具体不合适的地方，我们随后会尽力寻找相似背景的同学进行二次review作出修改
+Mail：31363563#QQ.COM
 
 ## 如何PR
 
 用github账号登录，fork /DDJiaJiao/Share 到个人账户，导入repo做修改并commit到自己repo再提起PR，通过review后合并到master branch
+
+##如何查看全文
+由于文章比较长，还在持续更新，github上的内容会持续更新...
+草稿beta版本的文档可以从这个链接查看：https://ojptg05fc7.feishu.cn/docx/JXvedBZg9odDEcxInitcSQF2nUe
+
 
 ## 目录「2024年版本」
 兼家庭教育任务检查清单
