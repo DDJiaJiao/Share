@@ -24,7 +24,7 @@ Mail：31363563#QQ.COM
 ##如何查看全文
 由于文章比较长，还在持续更新，github上的内容会持续更新...
 草稿beta版本的文档可以从这个链接查看：https://ojptg05fc7.feishu.cn/docx/JXvedBZg9odDEcxInitcSQF2nUe
-
+标记：现在是2024年10月2日beta版本
 
 ## 目录「2024年版本」
 兼家庭教育任务检查清单
